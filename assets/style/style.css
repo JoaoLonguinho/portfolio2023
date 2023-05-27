@@ -561,6 +561,7 @@ body {
 }
 .my-skills{
   background-color: white;
+  width: 100%;
 }
 .skills-tittles{
   padding: 50px 0px 50px 0px;
@@ -571,6 +572,7 @@ body {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
+  width: 100%;
 }
 .languages ul{
   list-style-type: none;
@@ -592,6 +594,7 @@ body {
 }
 .programing-languages img{
   height: 100%;
+  width: fit-content;
 }
 .wordpress{
   width: 30%;
